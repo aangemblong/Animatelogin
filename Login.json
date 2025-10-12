@@ -30,10 +30,57 @@
       "password": "anakw",
       "expire_date": "2026-12-01"
     },
+    {
+      "device_id": "9aaf923cf138785e",
+      "password": "edibotol",
+      "expire_date": "2026-12-15"
+    },
+    {
+      "device_id": "421fcab21c2f6ee8",
+      "password": "kelmiganteng",
+      "expire_date": "2026-12-01"
+    },
+    {
+      "device_id": "5bcb2835c54305d7",
+      "password": "abriganteng",
+      "expire_date": "2026-12-15"
+    },
+    {
+      "device_id": "15975d1a843c256d",
+      "password": "winata",
+      "expire_date": "2026-12-01"
+    },
+    {
+      "device_id": "c4f215ac60d4cf12",
+      "password": "ucinganteng",
+      "expire_date": "2026-12-15"
+    },
+    {
+      "device_id": "61a866de53c7f66f",
+      "password": "ucupganteng20",
+      "expire_date": "2026-12-01"
+    },
+    {
+      "device_id": "abc70e6ce8dbd6c9",
+      "password": "zakiganteng",
+      "expire_date": "2026-12-15"
+    },
+    {
+      "device_id": "5ee2f135af746366",
+      "password": "ajatganteng",
+      "expire_date": "2026-12-01"
+    },
+    {
+      "device_id": "",
+      "password": "",
+      "expire_date": "2026-12-15"
+    },
+    {
+      "device_id": "",
+      "password": "",
+      "expire_date": "2026-12-01"
+    }
     
-
-
-
 
   ]
 }
